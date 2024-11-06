@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MakwinDion
-- 👀 I’m interested in ...web development and artificial intelligence
-- 🌱 I’m currently learning ...artifical intelligence and mechine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @MakwinDion
+👀 I’m passionate about web development and creating dynamic user experiences
+🌱 Currently enhancing my skills in front-end and back-end web technologies
+💞️ Open to collaborations on innovative web projects
+📫 Reach me at makwindion0803@gmail.com
 
 <!---
 MakwinDion/MakwinDion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
